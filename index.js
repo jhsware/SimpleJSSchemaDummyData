@@ -1,5 +1,5 @@
 'use strict';
 
-module.exports.form_field_widgets = require('./src/form_field_widgets');
-module.exports.registerAllWidgets = require('./src/registerAllWidgets');
+module.exports.generators = require('./src/generators');
+module.exports.registerAllAdapters = require('./src/registerAllAdapters');
 module.exports.interfaces = require('./src/interfaces');

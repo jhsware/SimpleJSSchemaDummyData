@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Generate dummy data for isomorphic-schema",
   "engines": {
-    "node": "0.10.x"
+      "node": "0.12.x"
   },
   "main": "./lib/index.js",
   "dependencies": {

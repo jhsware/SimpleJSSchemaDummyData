@@ -13,7 +13,7 @@
   },
   "peerDependencies": {
     "component-registry": "git://github.com/jhsware/SimpleJSRegistry.git#master",
-    "isomorphic-schema": "git://github.com/jhsware/SimpleJSSchema.git#master",
+    "isomorphic-schema": "git://github.com/jhsware/SimpleJSSchema.git#master"
   },
   "devDependencies": {
     "del": "^1.1.0",

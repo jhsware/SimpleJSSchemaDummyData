@@ -1,6 +1,6 @@
 {
   "name": "schema-dummy-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate dummy data for isomorphic-schema",
   "repository" : { 
       "type" : "git",
@@ -9,9 +9,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "lodash": "^2.4.1",
-    "moment": "^2.8.4"
-  },
-  "peerDependencies": {
+    "moment": "^2.8.4",
     "component-registry": "git://github.com/jhsware/SimpleJSRegistry.git#master",
     "isomorphic-schema": "git://github.com/jhsware/SimpleJSSchema.git#master"
   },
